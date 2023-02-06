@@ -5,6 +5,6 @@
 checkboxes cost report to access to billing
 4. setup production AWS account
 5. setup admin user to manage same root user
-asign MFA device for admin user ( IAM dashboard)
+assign MFA device for admin user ( IAM dashboard)
 @Adding an IAM Admin User - PRODUCTION ACCOUNT
 
