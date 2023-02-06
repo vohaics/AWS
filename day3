@@ -1,3 +1,7 @@
 
 1.Securing an AWS account
 - enable MFA for root user
+3. Budget for AWS services to manage costs
+checkboxes cost report
+4. setup production AWS account
+
