@@ -1,3 +1,4 @@
-IAM key account:
-access key account: same user
-secret access keyL: as password
+IAM key account: create only 02 key
+access key ID account: same user
+secret access keyL: as password ( show text plain in one time)
+
