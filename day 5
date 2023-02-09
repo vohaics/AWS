@@ -3,3 +3,14 @@ key: value
 
 - variable: list form: comma separate elements are enclosed within [], ex ["hai", "vo", "nam", "sau", "soc"]
 - dictionari
+encryption: at rest, in transit
+- plaintext
+- algorithm
+- key : symmectric key, asymmetric key
+  - public key:
+  - private key:
+- ciphertext
+symmetric
+asymmetric
+Secure Sockets layer(SSL)
+Transport Layer Security (TLS)
