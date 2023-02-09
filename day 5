@@ -1,0 +1,5 @@
+YAML: human readable data language ( high level)
+key: value
+
+- variable: list form: comma separate elements are enclosed within [], ex ["hai", "vo", "nam", "sau", "soc"]
+- dictionari
