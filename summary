@@ -1,0 +1,61 @@
+Buổi 1: Tổng quan Amazon Web Service
+
+Buổi 2: IAM
+
+Buổi 3: Networking - VPC
+
+Buổi 4: VPC (tiếp). Route 53
+
+Buổi 5: S3
+
+Buổi 6: S3 (tiếp) . CloudFront
+
+Buổi 7: EC2: Elastic Computing
+
+Buổi 8: EC2: triển khai web site, ứng dụng
+
+Buổi 9: EBS: Elastic Block Storage
+
+Buổi 10: EFS: Elastic File System
+
+Buổi 11: Auto Scaling Group (ASG) & Elastic Load Balancer (ELB)
+
+Buổi 12: Cloud Formation
+
+Buổi 13: Terraform #1
+
+Buổi 14: Terraform #2
+
+Buổi 15: DynamoDB, DynamoDB Stream
+
+Buổi 16: Lambda
+
+Buổi 17: Integration and Messaging: SQS, SNS & Kinesis
+
+Buổi 18: RDS - Aurora
+
+Buổi 19: Lập trình AWS SDK Golang
+
+Buổi 20: CI/CD CodePipeline, CodeBuild
+
+Buổi 21: ECS, ECR, Fargate & Docker #1
+
+Buổi 22: ECS, ECR, Fargate & Docker #2
+
+Buổi 23: Monitoring & Audit: Cloud Watch, Cloud Trail, AWS Config
+
+Buổi 24: Cognitor: quản lý tài khoản người dùng
+
+Buổi 25: SAM; Serverless Application Model
+
+Buổi 26: KMS, Security, Encryption
+
+Buổi 27: Cloud Development Kit
+
+Buổi 28: Tổng hợp các kiểu kiến trúc AWS, các bài toán thực tế thường gặp
+
+Buổi 29: QUIZ - 715
+
+Buổi 30: QUIZ AWS SA 03
+
+Buổi 31: QUIZ AWS PRO
