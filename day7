@@ -3,3 +3,5 @@ security token service STS: assume role
 server-side encryption
 access control list( ACLs): object into bucket
 Bucket policy: entire bucket public
+HTTP 200 code: return when upload successfully
+
