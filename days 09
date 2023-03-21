@@ -2,5 +2,9 @@ security group look like virtual firewall for your ec2
 role permission are temporaly for group not assign to user.
 security credential:
 #!/bin/bash adding script at boot time
+networking with EC2
+ENI elastic network interface for basic
+EN: enhanced networking uses single root I/O virtualization to provide high performance
+EFA: elastic fabric adapter high performance computing
 
 
