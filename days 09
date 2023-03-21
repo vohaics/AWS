@@ -1,0 +1,6 @@
+security group look like virtual firewall for your ec2
+role permission are temporaly for group not assign to user.
+security credential:
+#!/bin/bash adding script at boot time
+
+
