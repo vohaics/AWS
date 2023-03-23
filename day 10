@@ -1,0 +1,14 @@
+Elastic block store
+store volumes can attached to your EC2 instances. virtual disk on cloud
+general purpose SSD solid 
+GP2:IOPS 16000, capacity under 1Tb, 3Gbps, suitable for boot disks and general application
+GP3:  predictable 3000IOPS 125Mib/s low cost, throughput GP3 than 4 times gp2, high performance
+IO1: 64.000 IOPS/volume, 50Iops/GiB, more than 16.000IOPS, expensive, latenct sensitive, very high performance
+IO2: same price as io1, but higher durability and more IOPS 64.000IOPS
+HDD: low cost, 40Mb/TB, 250Mb/TB bust, max throughput 500Mb/s, data warehouse, log process, canot be a boot volume
+cold HDD SC1: lowest cost option: throughput 12Mb/TB, bust 80Mb/TB, max throughput 250Mb/s per volume, colder data require per days
+SC2:
+IOPS: number of read and write//throughput number bit read and written per/s
+
+
+
