@@ -9,3 +9,4 @@ install aws cloudwatch agent on EC2 to get log from ec2/ log located on opt/var/
 cloudwatch insight to interactively query and analyze data stored in cloudwatch logs
 cloudwatch integrate with SNS to send email notification
 threshold reach 90% on demand
+aws config 101: continuously check config and monitor to find out which config non-compliants.
