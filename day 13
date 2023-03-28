@@ -1,0 +1,7 @@
+AWS system manager consol
+understanding ops works:
+family with chef, puppet, stack --> automation
+operation system configuration as code
+stack: database/application servers/load balancing--> chef recipes
+compatible puppet, chef
+manager service multiple layer
