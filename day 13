@@ -5,3 +5,7 @@ operation system configuration as code
 stack: database/application servers/load balancing--> chef recipes
 compatible puppet, chef
 manager service multiple layer
+install aws cloudwatch agent on EC2 to get log from ec2/ log located on opt/var/log messages
+cloudwatch insight to interactively query and analyze data stored in cloudwatch logs
+cloudwatch integrate with SNS to send email notification
+threshold reach 90% on demand
