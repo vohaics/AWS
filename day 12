@@ -16,3 +16,4 @@ cloudFormation: Infractructure as code, provision wthi fewer minuste., rollback 
 YAML/JSON template
 
 ssh ec2-user@ip -i keypair.pem.
+AWS system manager 
