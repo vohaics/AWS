@@ -1,0 +1,2 @@
+EFS: elastic file system
+manage network file system use NFS, multiple ec2 can access, via multi vps. sharing 
