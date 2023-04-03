@@ -1,0 +1,7 @@
+DDOS: distributed denial of service attacks.
+spoofed IP add of victim
+hacker --NTP server--> victim
+DDOS layer 3, layer 7.
+Amazon shiled & amazon web  application firewall WAF amazon cloudwatch
+Identiy Federal
+IAM:  multi factor authen, temporary access, compliance, intergrate
