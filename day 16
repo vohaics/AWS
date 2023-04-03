@@ -1,3 +1,15 @@
 SQS: amazon simple queue service: 
 EBS snapshot
 KMS: key manage service:
+RPO: recovery point objective
+RTO: recovery time objective
+which service have mainternance window
+security and compliance
+ISO: international organization for standardization inclue: 
+requirement pci dss compliance:
+1. firewall: install and maintain
+2. password protection
+3. protect stored card
+4. encrypt transmission 
+5. use and reguraly update
+6. track and monitor
