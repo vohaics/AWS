@@ -5,3 +5,15 @@ DDOS layer 3, layer 7.
 Amazon shiled & amazon web  application firewall WAF amazon cloudwatch
 Identiy Federal
 IAM:  multi factor authen, temporary access, compliance, intergrate
+cloudtrail; record, store, action, review
+analysis account issue
+attached to IAM user
+tool simulator
+SCP: service control policies: define allow and deny list, created within your organization which help
+you control and manage an account's access to services.
+inherited from parent
+
+
+amazon control tower: multiple aws accounts
+AWS STS: security token services: grant user limited and temporary access to aws resource
+aws key management service KMS:
