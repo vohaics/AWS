@@ -1,0 +1,13 @@
+3 tier architecture
+web public subnet <--> application private <--> database private subnet
+VPN connect VPC
+VPC:
+internet gateway
+virtual private gateway
+route table
+network acl
+security group
+CIDR range; 10.0.0.0/8
+172.16.9.9/12
+192.168.0.0/16
+tenancy
