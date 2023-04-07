@@ -1,0 +1,13 @@
+VPC endpoint
+1. launch ec2 attach a role, 2, create vpc endpoint, 3 review route table, 4. test s3 
+VPC peering: connect between 2 vpc using private IP addr
+communicate btw ec2 belong other vpc, not vpc transport, vpc peering connection
+vpc peering can able communicate without same aws account
+securely connecting vpn, vpc encrypted vpn by ipsec
+virtual private gateway
+siet to site vpn  customer gateway device that is router at data center side
+virtual private gateway ( AWS)<---> customer gateway (data center)
+direct connect: dedicate connection, private, fast, consistent
+vpc logs: capture packet at network interface
+1.create IAM role with permission to send flow log to cloudwatch
+2. launch EC2, 3. create log group, 4.config flow log
