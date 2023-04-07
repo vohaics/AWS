@@ -1,0 +1,13 @@
+NACL
+1.create VPC, 2.create subnet, 3. create 
+lowest rule will be applied otherwise highest matches them
+stateless: inbound & outbound rule.
+manager session manager
+1. create IAM role to communicate with session manager and cloudwatch
+2 launch EC2
+3. configure a cloudwatch log group
+4. connect to the EC2 instance use session manager and review session logs
+SSMManager instance & cloudwatch agent
+
+system session manager to login EC2 and logs sent to cloudwatch 
+otherwiseL
