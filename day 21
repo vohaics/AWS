@@ -1,0 +1,14 @@
+DNS: domain name system
+top level domain: control by IANA internet assigned rnumber authority
+domain registrars: domain.com. go daddy 
+route 53  aws dns
+register and purchase your own domain name
+hosted zone
+NS: name server
+A record: ip v4
+request top level domain then send to all dns server, resolve ip addr
+cnameL: cnonical name record: used to resolve one domain name to another
+alias record: map dns recoard in your hosted zon, elastic load balancer, cloudfront , s3 bucket
+zone apex:
+TTL: time to live
+alias map one dns name to another target dns name
