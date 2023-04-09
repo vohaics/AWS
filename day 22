@@ -1,0 +1,11 @@
+failover routing policy active/pasive
+route base locaion base location distance
+configure a bias to route more or less traffic  geoproximity routing policy
+
+route traffic based on the best latency
+route 53 return 8 weighted routing policy metric 0-255
+launch ec2 httpd, create route 53 with A record.
+web DMZ: security group
+route 53: hosted zone
+simple routing policy
+test
