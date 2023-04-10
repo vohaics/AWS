@@ -9,3 +9,12 @@ web DMZ: security group
 route 53: hosted zone
 simple routing policy
 test
+geolocation routing policy
+
+route 53 alias
+loadbalancer: http/application/ip (NW)
+create name LB/ ipv4, mapping availability zone
+target groups: select http, health checks
+select alias  choose endpoint
+map a user friendly domain name to out application loadbalancer
+failover alias record
