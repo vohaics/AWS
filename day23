@@ -1,0 +1,8 @@
+couldfront: a system ò distributed sẻver which deliver webpapes and web content 
+edge location geographicly copy all the content
+user connect to edge location, edge location will connect to ec2 server in us to provice 
+content dilivery network
+cloudfront edge location: is cached , will serve s3, ec2, elastic loadbalnce , route 53
+time to live TTL: object are cached for a period of time TTL is 1 day, afterward will be cleard from the cache
+create s3 bucket, upload images, create cloudfront distribute content
+create s3 bucket, create a cloudfront distribution, remove public access, create origin access control
