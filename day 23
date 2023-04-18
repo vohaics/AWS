@@ -1,0 +1,16 @@
+cost
+usage cost
+saving plans
+reservation services
+tracking 
+API operation
+usage type:
+EC2: hours
+lamda: seconds
+cloudwatch:request
+dynamodb: provision throughput
+S3: storage
+db: hours
+saving plans; check utilization of saving plans measures unused and under
+reservation: reserve for specified duration; measeres unuesed and unser-utilized.
+alerting threshold.
