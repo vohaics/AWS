@@ -1,0 +1,9 @@
+managed service are services for which aws is responsible for managing the infrasture and software updates
+aws fargate: 1.build container image --> define memory and compute resource--> run app --> pay only for requested
+
+amazon RDS
+using placement increase tcp/ip traffic flow
+low latency, high performance in ec2
+cluster single AZ, partition logical segments, spread independe rack & network
+same placement group is same rack & AZ, full line 10G
+RDS proxy  between client app and RDS database to increse availability
