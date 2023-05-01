@@ -1,0 +1,25 @@
+EC2: elastic compute cloud
+EC2 auto scaling
+AWS lambda:
+AWS EC2 container service: ECS docker
+AWS Elastic Kubernetes service: EKS
+AWS fargate: work ECS & EKS
+AWS elastic beantalk: manage web application without worring underlyung infra
+AWS lightsail
+AWS batch
+networking
+AWS route 53
+VPC
+Elastic load balancing
+AWS direct connect
+AWS app mesh
+AWS global accelerate
+security and compliance
+AWS IAM: amazon ispector, aws certificate manager ( ACM), AWS directory service
+aws application firewall, AWS shield
+AWS guardDuty: identify threats attacker, malcious
+infrastructure as a service: IaaS
+Platform as a services: PaaS
+software as a services: SaaS
+
+
