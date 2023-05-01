@@ -1,0 +1,13 @@
+object storage: is data was store in S3, glacier
+block storage: attached with Ec2
+file storage:via file system interface, it attached EC2 just like local file. EFS
+REST: state transfer API
+SOAP: simple object  access protocol
+POST: create
+GET: read
+PUT: update
+PATCH:
+DELETE: delete
+API, SDKs:
+instance store & elastic block store
+
